@@ -6,4 +6,5 @@ for i in a:
     if i not in b:
         b.append(i)
         
-print("list:",b)        
+print("list:",b) 
+global       
